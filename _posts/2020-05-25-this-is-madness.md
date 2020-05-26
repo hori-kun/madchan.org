@@ -9,5 +9,5 @@ psychotic experience, the benefits of mentoring, and we nut out how important
 community acceptance really is.
 
 <a href="https://open.spotify.com/episode/7op2xyNplfSOVF4FFkPUjF">
-  <img class="container" src="/public/img/spotify.png" alt="Listen on Spotify">
+  <img class="img-fluid" src="/public/img/spotify.png" alt="Listen on Spotify">
 </a>

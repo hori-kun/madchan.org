@@ -1,7 +1,7 @@
 # Setup
 title:               Madchan
 tagline:             'A podcast about madness'
-description:         'We talk about madness over and over again, but expect different results.'
+description:         'We talk about madness over and over again, but expecting different results.'
 url:                 http://madchan.org
 baseurl:             ''
 paginate:            5
